@@ -1,0 +1,27 @@
+# Code Book
+
+The Variables described in the table below
+
++-----------------+------------------------------------------------------------------------------------------------------------------------+
+| Variable        | Description                                                                                                            |
++:===============:+:=======================================================================================================================+
+| Volunteer ID    | The ID corresponds to the volunteer who is participating in the experiment                                             |
++-----------------+------------------------------------------------------------------------------------------------------------------------+
+| tBodyAcc_mean_X | The average of total body acceleration on the axis-X                                                                   |
++-----------------+------------------------------------------------------------------------------------------------------------------------+
+| tBodyAcc_mean_Y | The average of total body acceleration on the axis-Y                                                                   |
++-----------------+------------------------------------------------------------------------------------------------------------------------+
+| tBodyAcc_mean_Z | The average of total body acceleration on the axis-Z                                                                   |
++-----------------+------------------------------------------------------------------------------------------------------------------------+
+| tBodyAcc_std_X  | The standard deviation of total body acceleration on the axis-X                                                        |
++-----------------+------------------------------------------------------------------------------------------------------------------------+
+| tBodyAcc_std_Y  | The standard deviation of total body acceleration on the axis-Y                                                        |
++-----------------+------------------------------------------------------------------------------------------------------------------------+
+| tBodyAcc_std_Z  | The standard deviation of total body acceleration on the axis-Z                                                        |
++-----------------+------------------------------------------------------------------------------------------------------------------------+
+| Activity        | The activity that volunteer performing during the data gathering                                                       |
+|                 |                                                                                                                        |
+|                 | Consists of 6 activities: 1- WALKING 2- WALKING UPSTAIRS , 3- WALKING DOWNSTAIRS 4- SITTING , 5- STANDING , 6- LAYING  |
++-----------------+------------------------------------------------------------------------------------------------------------------------+
+
+**Note:** The average and standard deviations are normalized between the numbers (-1, 1)
